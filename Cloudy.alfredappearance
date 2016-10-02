@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#D8D8D9FF",
+        "font" : "Hiragino Sans",
+        "color" : "#8F8E8FFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#A5A5A5FF",
+        "font" : "Hiragino Sans",
+        "color" : "#B2B2B2FF"
+      },
+      "backgroundSelected" : "#0000000F",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#FBFEFBFF",
+        "font" : "Hiragino Sans",
+        "color" : "#A9A8AAFF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 4,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#00000000",
+      "spacing" : 0,
+      "text" : {
+        "size" : 32,
+        "colorSelected" : "#000000FF",
+        "font" : "Hiragino Sans",
+        "color" : "#E1E0E1FF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#2829368A",
+      "paddingHorizontal" : 10,
+      "width" : 620,
+      "borderPadding" : 10,
+      "borderColor" : "#00000000",
+      "blur" : 25,
+      "roundness" : 3,
+      "paddingVertical" : 9
+    },
+    "credit" : "Yoshiki Aoki",
+    "separator" : {
+      "color" : "#00000000",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#00000019",
+      "thickness" : 0
+    },
+    "name" : "Cloudy"
+  }
+}
